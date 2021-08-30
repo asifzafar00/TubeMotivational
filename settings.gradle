@@ -1,0 +1,2 @@
+rootProject.name='TubeMotivational'
+include ':app'
